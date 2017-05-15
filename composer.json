@@ -3,6 +3,10 @@
     "description": "Edutalk elfinder",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/elfinder/issues",
+        "source": "https://github.com/maduong/elfinder"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
