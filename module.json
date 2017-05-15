@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-elfinder",
+    "name": "Elfinder",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Integration Elfinder to Edutalk",
+    "namespace": "Edutalk\\Base\\Elfinder",
+    "autoload": "psr-4"
+}
